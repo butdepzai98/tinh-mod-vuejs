@@ -1,0 +1,25 @@
+.result {
+    padding: 10px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pheptinh {
+    position: relative;
+}
+h4.modN {
+    position: absolute;
+    width: 168px;
+    top: 0;
+    left: 150%;
+}
+
+h6.muX {
+    position: absolute;
+    top: -16px;
+    left: 100%;
+}
+
+h4.soA{
+    display: block;
+}
